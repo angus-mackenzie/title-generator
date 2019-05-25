@@ -1,0 +1,950 @@
+Scikit-learn: Machine learning in Python
+Pattern recognition and machine learning
+Gaussian processes in machine learning
+Machine learning in automated text categorization
+Machine learning
+Thumbs up?: sentiment classification using machine learning techniques
+Ensemble methods in machine learning
+C4. 5: programs for machine learning
+UCI machine learning repository
+Data Mining: Practical machine learning tools and techniques
+Introduction to machine learning
+Tensorflow: A system for large-scale machine learning
+Sparse Bayesian learning and the relevance vector machine
+Machine learning for high-speed corner detection
+Machine learning: a probabilistic perspective
+Selection of relevant features and examples in machine learning
+Computer systems that learn: classification and prediction methods from statistics, neural nets, machine learning, and expert systems
+Supervised machine learning: A review of classification techniques
+Large-scale machine learning with stochastic gradient descent
+Machine learning
+Correlation-based feature selection for machine learning
+A few useful things to know about machine learning.
+Practical bayesian optimization of machine learning algorithms
+Machine-learning research
+Support vector machine active learning with applications to text classification
+The boosting approach to machine learning: An overview
+Dlib-ml: A machine learning toolkit
+The immune system, adaptation, and machine learning
+Map-reduce for machine learning on multicore
+Weka: A machine learning workbench
+Incremental and decremental support vector machine learning
+Bioinformatics: the machine learning approach
+The use of the area under the ROC curve in the evaluation of machine learning algorithms
+Support vector machine active learning for image retrieval
+Foundations of machine learning
+Mllib: Machine learning in apache spark
+Some Studies in Machine Learning Using the Game of Checkers. II—Recent Progress
+Correlation-based feature selection of discrete and numeric class machine learning
+Multiagent systems: A survey from a machine learning perspective
+Support vector machine learning for interdependent and structured output spaces
+Torch7: A matlab-like environment for machine learning
+Introduction to machine learning
+Machine learning: an algorithmic perspective
+Bayesian reasoning and machine learning
+Machine learning: Trends, perspectives, and prospects
+Kernel methods in machine learning
+Sparse greedy matrix approximation for machine learning
+Faster and better: A machine learning approach to corner detection
+Machine learning classifiers and fMRI: a tutorial overview
+Dataset shift in machine learning
+Diffuse large B-cell lymphoma outcome prediction by gene-expression profiling and supervised machine learning
+Understanding machine learning: From theory to algorithms
+Learning with kernels: support vector machines, regularization, optimization, and beyond
+A study of the behavior of several methods for balancing machine learning training data
+Machine learning in action
+“Memo” functions and machine learning
+Distributed GraphLab: a framework for machine learning and data mining in the cloud
+Improving machine learning approaches to coreference resolution
+Estimating probabilities: a crucial task in machine learning.
+Flow clustering using machine learning techniques
+Elements of machine learning
+Optimization for machine learning
+A machine learning approach to coreference resolution of noun phrases
+Reconciling schemas of disparate data sources: A machine-learning approach
+Dadiannao: A machine-learning supercomputer
+OP-ELM: optimally pruned extreme learning machine
+A survey of techniques for internet traffic classification using machine learning.
+Machine learning and data mining
+Machine learning for user modeling
+Ontology matching: A machine learning approach
+Weka: Practical machine learning tools and techniques with Java implementations
+Machine learning in bioinformatics
+Can machine learning be secure?
+Orange: From experimental machine learning to interactive data mining
+The discipline of machine learning
+Gaussian processes for machine learning (GPML) toolbox
+Machine learning from imbalanced data sets 101
+Intrusion detection by machine learning: A review
+Encyclopedia of machine learning
+Machine learning for sequential data: A review
+Graphlab: A new framework for parallel machine learning
+Gaussian processes for machine learning
+An introduction to machine learning
+Mxnet: A flexible and efficient machine learning library for heterogeneous distributed systems
+Torch: a modular machine learning software library
+Convolutional LSTM network: A machine learning approach for precipitation nowcasting
+Introduction to machine learning
+Deep machine learning-a new frontier in artificial intelligence research
+Adversarial machine learning
+Gaussian processes for machine learning
+Machine perception
+Outside the closed world: On using machine learning for network intrusion detection
+Applications of machine learning and rule induction
+Machine learning for medical diagnosis: history, state of the art and perspective
+Practical feature subset selection for machine learning
+The SHOGUN machine learning toolbox
+Automated traffic classification and application identification using machine learning
+Text categorization with support vector machines: Learning with many relevant features
+Uncovering social spammers: social honeypots+ machine learning
+Recognizing facial expression: machine learning and application to spontaneous behavior
+Machine learning approaches to estimating software development effort
+Emotions from text: machine learning for text-based emotion prediction
+Introduction to reinforcement learning
+Quantum machine learning
+Scaling distributed machine learning with the parameter server
+The cross-entropy method: a unified approach to combinatorial optimization, Monte-Carlo simulation and machine learning
+Predicting the future—big data, machine learning, and clinical medicine
+Classes of kernels for machine learning: a statistics perspective
+Interactive machine learning
+Drug design by machine learning: support vector machines for pharmaceutical data analysis
+Probabilistic machine learning and artificial intelligence
+Graphical models for machine learning and digital communication
+Sequential methods in pattern recognition and machine learning
+A machine learning approach to twitter user classification
+Weka-a machine learning workbench for data mining
+Structural health monitoring: a machine learning perspective
+Determinantal point processes for machine learning
+Collaborative learning: Cognitive and computational approaches. advances in learning and instruction series.
+Machine learning applications in cancer prognosis and prediction
+Automating the construction of internet portals with machine learning
+Readings in machine learning
+Machine learning applications in genetics and genomics
+Fast and accurate modeling of molecular atomization energies with machine learning
+Using emoticons to reduce dependency in machine learning techniques for sentiment classification
+Tensorflow: Large-scale machine learning on heterogeneous distributed systems
+Automatic analysis of malware behavior using machine learning
+Feature selection for machine learning: comparing a correlation-based filter approach to the wrapper.
+Improving propensity score weighting using machine learning
+Diannao: A small-footprint high-throughput accelerator for ubiquitous machine-learning
+A survey of multi-view machine learning
+Machine learning phases of matter
+Extreme learning machine: theory and applications
+MLC++: A machine learning library in C++
+Practical black-box attacks against machine learning
+Using machine learning to focus iterative optimization
+Predicting hepatitis B virus–positive metastatic hepatocellular carcinomas using gene expression profiling and supervised machine learning
+Applications of machine learning in cancer prediction and prognosis
+Machine learning approaches for the prediction of signal peptides and other protein sorting signals
+Introduction to statistical relational learning
+Machine learning: a theoretical approach
+Overfitting and undercomputing in machine learning
+Python machine learning
+Adversarial machine learning at scale
+Introduction to machine learning for brain imaging
+Scaling up machine learning: Parallel and distributed approaches
+Business data mining—a machine learning perspective
+Using Machine Learning Techniques to Identify Botnet Traffic.
+Some studies in machine learning using the game of checkers. II—Recent progress
+Machine learning methods for classifying human physical activity from on-body accelerometers
+A preliminary performance comparison of five machine learning algorithms for practical IP traffic flow classification
+Machine learning: a review of classification and combining techniques
+Information extraction from HTML: Application of a general machine learning approach
+Man vs. computer: Benchmarking machine learning algorithms for traffic sign recognition
+Efficient and robust automated machine learning
+Optimization methods for large-scale machine learning
+Machine learning with R
+Machine learning and its applications to biology
+Sentiment classification of online reviews to travel destinations by supervised machine learning approaches
+Semi-Supervised Learning (Chapelle, O. et al., Eds.; 2006) [Book reviews]
+Machine learning and data mining
+Ensemble machine learning: methods and applications
+Text classification using machine learning techniques.
+Power utility nontechnical loss analysis with extreme learning machine method
+Pylearn2: a machine learning research library
+An empirical comparison of pattern recognition, neural nets and machine learning classification methods
+A review of relational machine learning for knowledge graphs
+Machine learning of temporal relations
+How the machine 'thinks': Understanding opacity in machine learning algorithms
+Open-source machine learning: R meets Weka
+Fashion-mnist: a novel image dataset for benchmarking machine learning algorithms
+mlr: Machine Learning in R
+Machine learning
+Learning deep architectures for AI
+Multi-objective machine learning
+API design for machine learning software: experiences from the scikit-learn project
+Applications of machine learning to cognitive radio networks
+SystemML: Declarative machine learning on MapReduce
+Ensemble machine learning on gene expression data for cancer classification
+MLbase: A Distributed Machine-learning System.
+Machine learning and radiology
+Machine learning classification over encrypted data.
+Human brain and human learning
+A review of machine learning approaches to spam filtering
+Machine learning for information retrieval: neural networks, symbolic learning, and genetic algorithms
+Classifying spatial patterns of brain activity with machine learning methods: application to lie detection
+On-line algorithms in machine learning
+Transfer learning
+Application of machine learning to epileptic seizure detection
+Machine learning methods without tears: a primer for ecologists
+Neural machine translation by jointly learning to align and translate
+Global discretization of continuous attributes as preprocessing for machine learning
+Machine learning attacks against the Asirra CAPTCHA
+Using machine learning to break visual human interaction proofs (HIPs)
+Machine learning in medicine
+Protein secondary structure prediction using logic-based machine learning
+Combining satellite imagery and machine learning to predict poverty
+Machine learning benchmarks and random forest regression
+A comparison of machine learning techniques for phishing detection
+Learning to learn with the informative vector machine
+A machine learning approach to workflow management
+An application of machine learning to network intrusion detection
+A fast pruned-extreme learning machine for classification problem
+A review of machine learning algorithms for text-documents classification
+Evasion attacks against machine learning at test time
+Data mining: machine learning, statistics, and databases
+Machine learning: the art and science of algorithms that make sense of data
+OpenML: networked science in machine learning
+Experiments with random projections for machine learning
+Biometric authentication: a machine learning approach
+Non-asymptotic analysis of stochastic approximation algorithms for machine learning
+Meta optimization: improving compiler heuristics with machine learning
+Gene selection from microarray data for cancer classification—a machine learning approach
+Tuning metaheuristics: a machine learning perspective
+Accelerating materials property predictions using machine learning
+Factorizing yago: scalable machine learning for linked data
+Ontology learning for the semantic web
+Data mining, hypergraph transversals, and machine learning
+Finding density functionals with machine learning
+Three-objective genetics-based machine learning for linguistic rule extraction
+Machine learning: an applied econometric approach
+A hybrid machine learning approach to network anomaly detection
+An application of machine learning to anomaly detection
+ML confidential: Machine learning on encrypted data
+Machine learning for neuroimaging with scikit-learn
+Ensemble based extreme learning machine
+Cached sufficient statistics for efficient machine learning with large datasets
+Distributed optimization and statistical learning via the alternating direction method of multipliers
+SoilGrids250m: Global gridded soil information based on machine learning
+Neuro-fuzzy and soft computing-a computational approach to learning and machine intelligence [Book Review]
+Machine learning that matters
+Beyond PageRank: machine learning for static ranking
+A study of statistical techniques and performance measures for genetics-based machine learning: accuracy and interpretability
+Machine learning in DNA microarray analysis for cancer classification
+On optimization methods for deep learning
+Student modeling and machine learning
+Predicting solar generation from weather forecasts using machine learning
+Qrp05-4: Internet traffic identification using machine learning
+Machine learning methods for quantitative radiomic biomarkers
+IAM graph database repository for graph based pattern recognition and machine learning
+Machine-learning-assisted materials discovery using failed experiments
+A survey of data mining and machine learning methods for cyber security intrusion detection
+Using machine learning to detect cyberbullying
+Genetic algorithms as a tool for feature selection in machine learning
+Database schema matching using machine learning with feature selection
+A machine learning approach to musical style recognition
+Java-ml: A machine learning library
+On machine intelligence
+Improve computer-aided diagnosis with machine learning techniques using undiagnosed samples
+A machine learning architecture for optimizing web search engines
+Newsweeder: Learning to filter netnews
+The information content of forward‐looking statements in corporate filings—A naïve Bayesian machine learning approach
+Curriculum learning
+The geometry of ROC space: understanding machine learning metrics through ROC isometrics
+Incorporating prior information in machine learning by creating virtual examples
+A machine learning approach to building domain-specific search engines
+Combining Data Mining and Machine Learning for Effective User Profiling.
+Application of metabolomics to plant genotype discrimination using statistics and machine learning
+Wrapper maintenance: A machine learning approach
+Making machine learning models interpretable.
+Applications of machine learning to ecological modelling
+Towards a rigorous science of interpretable machine learning
+Learning Collaborative Information Filters.
+A machine learning approach to android malware detection
+OpinionMiner: a novel machine learning system for web opinion mining and extraction
+Pareto-based multiobjective machine learning: An overview and case studies
+Quantum algorithms for supervised and unsupervised machine learning
+Machine learning for fast quadrupedal locomotion
+Biometrics from brain electrical activity: A machine learning approach
+Machine learning techniques for the computer security domain of anomaly detection.
+Preventing student dropout in distance learning using machine learning techniques
+The MNIST database of handwritten digit images for machine learning research [best of the web]
+Machine learning for detecting gene-gene interactions
+The computational complexity of machine learning
+Introduction to machine learning
+Information gain and divergence-based feature selection for machine learning-based text categorization
+Predicting multiple metrics for queries: Better decisions enabled by machine learning
+Machine learning techniques for brain-computer interfaces
+Application of Machine Learning Algorithms to KDD Intrusion Detection Dataset within Misuse Detection Context.
+Kernel methods in system identification, machine learning and function estimation: A survey
+Building domain-specific search engines with machine learning techniques
+Stealing machine learning models via prediction apis
+Machine learning for real-time single-trial EEG-analysis: from brain–computer interfacing to mental state monitoring
+Scoring diverse cellular morphologies in image-based screens with iterative feedback and machine learning
+An investigation of machine learning based prediction systems
+Pattern recognition and machine learning
+Fault diagnosis of ball bearings using machine learning methods
+Machine learning in wireless sensor networks: Algorithms, strategies, and applications
+A machine learning approach to sentiment analysis in multilingual Web texts
+An introduction to quantum machine learning
+Principles of data mining (adaptive computation and machine learning)
+Transferability in machine learning: from phenomena to black-box attacks using adversarial samples
+Improved base calling for the Illumina Genome Analyzer using machine learning strategies
+Statistical Machine Learning Makes Automatic Control Practical for Internet Datacenters.
+Machine learning approaches to manufacturing
+A machine-learning approach to automated negotiation and prospects for electronic commerce
+Data mining and machine learning in cybersecurity
+Large-scale machine learning at twitter
+Deep learning
+cleverhans v1. 0.0: an adversarial machine learning library
+Semi-supervised learning using gaussian fields and harmonic functions
+A survey on machine-learning techniques in cognitive radios
+Machine learning for science: state of the art and future prospects
+Data mining using/spl Mscr//spl Lscr//spl Cscr/++ a machine learning library in C++
+Challenges in real-life emotion annotation and machine learning based detection
+Genetics-based machine learning and behavior-based robotics: a new synthesis
+Challenges in representation learning: A report on three machine learning contests
+Recognizing names in biomedical texts: a machine learning approach
+Machine learning methods in chemoinformatics
+Bayesian inference: An introduction to principles and practice in machine learning
+Imbalanced-learn: A python toolbox to tackle the curse of imbalanced datasets in machine learning
+Machine learning of molecular electronic properties in chemical compound space
+Speeding up distributed machine learning using codes
+Machine learning paradigms for next-generation wireless networks
+Machine learning in medical imaging
+Application of machine learning techniques for supply chain demand forecasting
+MLPACK: A scalable C++ machine learning library
+Information-theoretic metric learning
+Disambiguating proteins, genes, and RNA in text: a machine learning approach
+Density ratio estimation in machine learning
+Intensity-based protein identification by machine learning from a library of tandem mass spectra
+Analysis of interpretability-accuracy tradeoff of fuzzy systems by multiobjective fuzzy genetics-based machine learning
+A study on several machine-learning methods for classification of malignant and benign clustered microcalcifications
+Membership inference attacks against machine learning models
+Towards energy-aware scheduling in data centers using machine learning
+Extreme learning machine for regression and multiclass classification
+Principles and theory for data mining and machine learning
+Applying machine learning to software fault-proneness prediction
+Tensor decomposition for signal processing and machine learning
+A machine learning approach to visual perception of forest trails for mobile robots
+PREDICTING STUDENTS'PERFORMANCE IN DISTANCE LEARNING USING MACHINE LEARNING TECHNIQUES
+Collaborative filtering: A machine learning perspective
+Detecting spam blogs: A machine learning approach
+Machine learning: discriminative and generative
+Finding nature's missing ternary oxide compounds using machine learning and density functional theory
+Big data classification: Problems and challenges in network intrusion prediction with machine learning
+The application of machine learning to structural health monitoring
+Machine learning of generic and user-focused summarization
+Empirical assessment of machine learning based software defect prediction techniques
+Application of machine learning to epileptic seizure onset detection and treatment
+Emotional state classification from EEG data using machine learning approach
+Machine learning methods for solar radiation forecasting: A review
+An empirical comparison of machine learning models for time series forecasting
+Learning algorithms for the classification restricted boltzmann machine
+Morphological classification of brains via high-dimensional shape transformations and machine learning methods
+A machine learning approach to automatic production of compiler heuristics
+Dropout prediction in e-learning courses through the combination of machine learning techniques
+Using GPUs for machine learning algorithms
+Communication efficient distributed machine learning with the parameter server
+Scaling up: Distributed machine learning with cooperation
+OptiML: an implicitly parallel domain-specific language for machine learning
+Trainable Weka Segmentation: a machine learning tool for microscopy pixel classification
+Finding latent code errors via machine learning over program executions
+JAABA: interactive machine learning for automatic annotation of animal behavior
+Using machine-learning methods for musical style modeling
+Extreme learning machine: a new learning scheme of feedforward neural networks
+Does machine learning really work?
+Data mining and machine learning in astronomy
+Self-taught learning: transfer learning from unlabeled data
+Fall detection and activity recognition with machine learning
+Genetic algorithms for machine learning
+Machine-learning approaches in drug discovery: methods and applications
+Machine learning and law
+Accurately and reliably extracting data from the web: A machine learning approach
+Learning to rank using gradient descent
+High-level student modeling with machine learning
+Classification of brain tumor type and grade using MRI texture and shape in a machine learning scheme
+Advances in machine learning based text categorization.
+Landslide susceptibility assessment using SVM machine learning algorithm
+Machine learning bias, statistical bias, and statistical variance of decision tree algorithms
+Interactive machine learning: letting users build classifiers
+A machine learning approach to reading level assessment
+Classification of mental tasks from EEG signals using extreme learning machine
+Extracting sentence segments for text summarization: a machine learning approach
+A review of machine learning in scheduling
+Revisiting the Nyström method for improved large-scale machine learning
+Detecting P2P botnets through network behavior analysis and machine learning
+Accurate quantitative estimation of energy performance of residential buildings using statistical machine learning tools
+Lifelong machine learning systems: Beyond learning algorithms
+Efficient machine learning for big data: A review
+Pudiannao: A polyvalent machine learning accelerator
+Detection of phishing attacks: A machine learning approach
+Playing atari with deep reinforcement learning
+Coordinated management of multiple interacting resources in chip multiprocessors: A machine learning approach
+Mapping parallelism to multi-cores: a machine learning based approach
+A supervised machine learning algorithm for arrhythmia analysis
+Machine learning for adaptive user interfaces
+Kernel techniques: from machine learning to meshless methods
+A machine-learning approach for classifying and categorizing android sources and sinks.
+Machine Learning For Transliteration
+Consumer credit-risk models via machine-learning algorithms
+Integrating machine learning and workflow management to support acquisition and adaptation of workflow models
+Machine learning of inductive bias
+The elements of statistical learning: data mining, inference, and prediction, Springer Series in Statistics
+A machine learning information retrieval approach to protein fold recognition
+Automated behavioral and static analysis using an instrumented sandbox and machine learning classification for mobile security
+Machine-learning algorithms for credit-card applications
+Machine learning in control of functional electrical stimulation systems for locomotion
+Learning with drift detection
+Automatic text summarization using a machine learning approach
+Learning to combine foveal glimpses with a third-order Boltzmann machine
+Assessment and validation of machine learning methods for predicting molecular atomization energies
+A machine learning based approach for table detection on the web
+Mean-field theory of Boltzmann machine learning
+Cantina+: A feature-rich machine learning framework for detecting phishing web sites
+Machine learning using a higher order correlation network
+Automatic differentiation in machine learning: a survey
+Machine learning approach to modeling sediment transport
+Perspective: Machine learning potentials for atomistic simulations
+A comparison of machine learning methods for the diagnosis of pigmented skin lesions
+Machine learning: a Bayesian and optimization perspective
+Comparative experiments on disambiguating word senses: An illustration of the role of bias in machine learning
+Argument based machine learning
+MLI: An API for distributed machine learning
+Rapid and quantitative detection of the microbial spoilage of meat by Fourier transform infrared spectroscopy and machine learning
+The need for open source software in machine learning
+Bundle methods for machine learning
+Intrusion detection. Applying machine learning to Solaris audit data
+The foundations of cost-sensitive learning
+Machine learning techniques in spam filtering
+A first course in machine learning
+Unintended consequences of machine learning in medicine
+Rule-based machine learning methods for functional prediction
+Multiple criteria for evaluating machine learning algorithms for land cover classification from satellite data
+Kernel methods and machine learning
+Fuzzy methods in machine learning and data mining: Status and prospects
+Estimating soil moisture using remote sensing data: A machine learning approach
+A machine learning approach to web page filtering using content and structure analysis
+A machine learning approach to predicting protein–ligand binding affinity with applications to molecular docking
+Evolutionary computation meets machine learning: A survey
+Data Mining Using a Machine Learning Library in C++
+Sample size selection in optimization methods for machine learning
+Machine learning paradigms for speech recognition: An overview
+An empirical comparison of supervised learning algorithms
+Analysis of machine learning techniques used in behavior-based malware detection
+Job shop scheduling with a genetic algorithm and machine learning
+Milepost gcc: Machine learning enabled self-tuning compiler
+Incremental support vector machine learning: A local approach
+An empirical study of machine learning techniques for affect recognition in human–robot interaction
+The problem of tuning metaheuristics as seen from a machine learning perspective
+Inductive principles for restricted Boltzmann machine learning
+Sentiment analysis in twitter using machine learning techniques
+Machine-learning applications of algorithmic randomness
+Machine learning methods for ecological applications
+A comparison of pixel-based and object-based image analysis with selected machine learning algorithms for the classification of agricultural landscapes using SPOT …
+Learning fast approximations of sparse coding
+Combinatorial screening for new materials in unconstrained composition space with machine learning
+A machine learning approach for efficient traffic classification
+Petuum: A new platform for distributed machine learning on big data
+Automated classification of bird and amphibian calls using machine learning: A comparison of methods
+Keepaway soccer: From machine learning testbed to benchmark
+Machine learning for detection and diagnosis of disease
+Machine learning for high-throughput stress phenotyping in plants
+KNN based machine learning approach for text and document mining
+Genome-scale identification of Legionella pneumophila effectors using a machine learning approach
+Power to the people: The role of humans in interactive machine learning
+Markov games as a framework for multi-agent reinforcement learning
+Predicting MOOC dropout over weeks using machine learning methods
+Machine learning for aerial image labeling
+BELM: Bayesian extreme learning machine
+Categorial approach to machine learning
+EnsembleMatrix: interactive visualization to support machine learning with multiple classifiers
+Detecting text similarity over short passages: Exploring linguistic feature combinations via machine learning
+Choosing prediction over explanation in psychology: Lessons from machine learning
+Support vector machines for multiple-instance learning
+A general method for scaling up machine learning algorithms and its application to clustering
+Drug design by machine learning: The use of inductive logic programming to model the structure-activity relationships of trimethoprim analogues binding to …
+Machine learning methods for predicting failures in hard drives: A multiple-instance application
+Machine learning for medical imaging
+A study of distance-based machine learning algorithms
+Fall classification by machine learning using mobile phones
+Niche modeling perspective on geographic range predictions in the marine environment using a machine-learning algorithm
+Machine learning for Arabic text categorization
+Special issue on learning from imbalanced data sets
+Improving accuracy in word class tagging through the combination of machine learning systems
+Frog classification using machine learning techniques
+Detecting spam bots in online social networking sites: a machine learning approach
+Global discretization of continuous attributes as preprocessing for machine learning
+Practical issues in temporal difference learning
+The marginal value of adaptive gradient methods in machine learning
+Predicting future hourly residential electrical consumption: A machine learning case study
+Exploiting Machine Learning to Subvert Your Spam Filter.
+Learning phrase representations using RNN encoder-decoder for statistical machine translation
+Machine learning for spoken dialogue systems
+Automated static code analysis for classifying android applications using machine learning
+Structure-activity relationships derived by machine learning: The use of atoms and their bond connectivities to predict mutagenicity by inductive logic programming
+Machine learning with R
+Syntactic n-grams as machine learning features for natural language processing
+Gait event detection for FES using accelerometers and supervised machine learning
+Database dependency discovery: a machine learning approach
+Machine learning approaches for estimation of prediction interval for the model output
+Predicting stock and stock price index movement using trend deterministic data preparation and machine learning techniques
+Hidden technical debt in machine learning systems
+Rainfall forecasting by technological machine learning models
+Types of machine learning algorithms
+Convex incremental extreme learning machine
+Metric learning: A survey
+Machine learning based encrypted traffic classification: Identifying ssh and skype
+Molecular dynamics with on-the-fly machine learning of quantum-mechanical forces
+Heterogeneous uncertainty sampling for supervised learning
+Machine learning, medical diagnosis, and biomedical engineering research-commentary
+A machine learning approach for automated recognition of movement patterns using basic, kinetic and kinematic gait data
+Systematic literature review of machine learning based software development effort estimation models
+Prediction modeling using EHR data: challenges, strategies, and a comparison of machine learning approaches
+Machine learning via polyhedral concave minimization
+Machine learning for android malware detection using permission and api calls
+Using machine learning to improve information access
+Machine learning methods for metabolic pathway prediction
+Hands-on machine learning with Scikit-Learn and TensorFlow: concepts, tools, and techniques to build intelligent systems
+Machine learning of natural language
+Machine learning strategies for time series forecasting
+Towards a holistic approach to auto-parallelization: integrating profile-driven parallelism detection and machine-learning based mapping
+A comparative study of machine learning methods for authorship attribution
+A survey of machine learning for big data processing
+MoleculeNet: a benchmark for molecular machine learning
+Inductive learning algorithms and representations for text categorization
+Bypassing the Kohn-Sham equations with machine learning
+Least squares support vector machine classifiers
+Everything old is new again: a fresh look at historical approaches in machine learning
+Hedging predictions in machine learning
+Machine learning for the New York City power grid
+Adaptive information retrieval: machine learning in associate networks
+Machine learning and prediction in medicine—beyond the peak of inflated expectations
+A systematic review of machine learning techniques for software fault prediction
+Machine learning methods in the environmental sciences: Neural networks and kernels
+An evaluation of machine-learning methods for predicting pneumonia mortality
+Machine learning and software engineering
+Machine learning of accurate energy-conserving molecular force fields
+Missing data imputation using statistical and machine learning methods in a real breast cancer problem
+Machine learning methods for fully automatic recognition of facial expressions and facial actions
+Online learning and online convex optimization
+Oblivious multi-party machine learning on trusted processors
+Learning question classifiers
+Machine learning in financial crisis prediction: a survey
+Machine learning for precise quantum measurement
+A comparative study of different machine learning methods on microarray gene expression data
+Three machine learning techniques for automatic determination of rules to control locomotion
+Svmlight: Support vector machine
+Machine learning in medical applications
+Mapping land-cover modifications over large areas: A comparison of machine learning algorithms
+A planning quality evaluation tool for prostate adaptive IMRT based on machine learning
+Machine learning approaches to power-system security assessment
+Extraction of gene-disease relations from Medline using domain dictionaries and machine learning
+Adaptation, learning, and optimization over networks
+Machine learning with SVM and other kernel methods
+Machine learning techniques to diagnose breast cancer from image-processed nuclear features of fine needle aspirates
+MILEPOST GCC: machine learning based research compiler
+Active learning with statistical models
+Galaxy Zoo: reproducing galaxy morphologies via machine learning
+Deep reinforcement learning with double q-learning
+An experimental comparison of human and machine learning formalisms
+Machine-learning paradigms for selecting ecologically significant input variables
+Fall detection and activity recognition with machine learning
+System for intrusion detection and vulnerability assessment in a computer network using simulation and machine learning
+Principles of explanatory debugging to personalize interactive machine learning
+Imputation of Missing Data Using Machine Learning Techniques.
+Machine learning biochemical networks from temporal logic properties
+Asynchronous methods for deep reinforcement learning
+Multiple kernel learning, conic duality, and the SMO algorithm
+Machine learning phases of strongly correlated fermions
+Sparse Bayesian extreme learning machine for multi-classification
+Neural networks for machine learning lecture 6a overview of mini-batch gradient descent
+Registration and machine learning-based automated segmentation of subcortical and cerebellar brain structures
+Method and apparatus for machine learning a document relevance function
+Intelligent scheduling with machine learning capabilities: the induction of scheduling knowledge
+Machine-learning-based coadaptive calibration for brain-computer interfaces
+Eigentransfer: a unified framework for transfer learning
+Learning robot behaviour and skills based on human demonstration and advice: the machine learning paradigm
+Machine learning and data mining methods in diabetes research
+Machine learning based botnet detection using real-time extracted traffic features
+How to represent crystal structures for machine learning: Towards fast prediction of electronic properties
+Practical real-time intrusion detection using machine learning approaches
+Dynamic power management using machine learning
+Machine learning for molecular and materials science
+Machine learning in cell biology–teaching computers to recognize phenotypes
+A machine learning approach for tracing regulatory codes to product specific requirements
+Interactive machine learning for health informatics: when do we need the human-in-the-loop?
+Active learning with support vector machine applied to gene expression data for cancer classification
+Learning to link with wikipedia
+Mechanism design via machine learning
+Knowledge acquisition of predicate argument structures from technical texts using Machine Learning: the system Asium
+Machine learning predictions of molecular properties: Accurate many-body potentials and nonlocality in chemical space
+Side channel attack: an approach based on machine learning
+Forest biomass estimation from airborne LiDAR data using machine learning approaches
+Machine learning for predictive maintenance: A multiple classifier approach
+Bob: a free signal processing and machine learning toolbox for researchers
+Machine learning based electronic messaging system
+Knowledge acquisition from amino acid sequences by machine learning system BONSAI
+Machine learning in geosciences and remote sensing
+Evaluating machine learning models for engineering problems
+Browsing on small screens: recasting web-page segmentation into an efficient machine learning framework
+Parameter server for distributed machine learning
+Secureml: A system for scalable privacy-preserving machine learning
+Naïve Bayes for microRNA target predictions—machine learning for microRNA targets
+Red eye detection with machine learning
+Introduction to statistical learning theory and support vector machines
+Incremental majorization-minimization optimization with application to large-scale machine learning
+Big data and machine learning in health care
+Machine learning, machine vision, and the brain
+Ventricular fibrillation and tachycardia classification using a machine learning approach
+Kernel-based machine learning protocol for predicting DNA-binding proteins
+Applying machine learning toward an automatic classification of it
+Machine learning bandgaps of double perovskites
+Researcher bias: The use of machine learning in software defect prediction
+The interplay of optimization and machine learning research
+Similarity-based machine learning methods for predicting drug–target interactions: a brief review
+Detecting falls with wearable sensors using machine learning techniques
+Malicious web content detection by machine learning
+DREAM: diabetic retinopathy analysis using machine learning
+Web mining: Machine learning for web applications
+Classification of sentiment reviews using n-gram machine learning approach
+A survey of open source tools for machine learning with big data in the Hadoop ecosystem
+Interacting meaningfully with machine learning systems: Three experiments
+An SVM-based machine learning method for accurate internet traffic classification
+Automating spoken dialogue management design using machine learning: An industry perspective
+Detection of malicious code by applying machine learning classifiers on static features: A state-of-the-art survey
+Machine learning framework for early MRI-based Alzheimer's conversion prediction in MCI subjects
+Machine learning applications for data center optimization
+Using “annotator rationales” to improve machine learning for text categorization
+Genetic programming-based construction of features for machine learning and knowledge discovery tasks
+A machine learning approach to TCP throughput prediction
+Machine learning and formal concept analysis
+Distance metric learning for large margin nearest neighbor classification
+Machine learning topological states
+A framework for medical image retrieval using machine learning and statistical similarity matching techniques with relevance feedback
+Machine learning and the profession of medicine
+TargetSpy: a supervised machine learning approach for microRNA target prediction
+Quantum loop topography for machine learning
+Structural machine learning with Galois lattice and Graphs.
+Protein sequence classification using extreme learning machine
+Modeling virtualized applications using machine learning techniques
+Model-based machine learning
+Machine learning prediction of cancer cell sensitivity to drugs based on genomic and chemical properties
+Generalization in reinforcement learning: Successful examples using sparse coarse coding
+A unified architecture for natural language processing: Deep neural networks with multitask learning
+Hyperopt: A python library for optimizing the hyperparameters of machine learning algorithms
+Machine learning methods for planning
+Deepwalk: Online learning of social representations
+Credit risk assessment using statistical and machine learning: basic methodology and risk modeling applications
+A deep learning approach to machine transliteration
+Machine learning of robot assembly plans
+A machine learning approach to ranging error mitigation for UWB localization
+Migration and stopover in a small pelagic seabird, the Manx shearwater Puffinus puffinus: insights from machine learning
+Applying machine learning to agricultural data
+Human-robot communication and machine learning
+A stable multi-scale kernel for topological machine learning
+Crafting papers on machine learning
+Decision forests: A unified framework for classification, regression, density estimation, manifold learning and semi-supervised learning
+Mapreduce: Distributed computing for machine learning
+Machine learning in non-stationary environments: Introduction to covariate shift adaptation
+Hotspot detection based on machine learning
+Machine learning and data mining for computer security: methods and applications
+Image analysis and machine learning in digital pathology: Challenges and opportunities
+Genetic algorithms and machine learning
+Applying machine learning classifiers to dynamic android malware detection at scale
+Toward harnessing user feedback for machine learning
+Recent advances in predictive (machine) learning
+Credit rating by hybrid machine learning techniques
+Machine learning algorithms for damage detection under operational and environmental variability
+ADVISOR: A machine learning architecture for intelligent tutor construction
+Optical coherence tomography machine learning classifiers for glaucoma detection: a preliminary study
+Can machine-learning improve cardiovascular risk prediction using routine clinical data?
+Quantum-enhanced machine learning
+Automatic feature generation for machine learning based optimizing compilation
+Towards the science of security and privacy in machine learning
+Majorization-minimization algorithms in signal processing, communications, and machine learning
+Deploying an interactive machine learning system in an evidence-based practice center: abstrackr
+Pitch accent prediction using ensemble machine learning
+Method and apparatus for detecting malicious software through contextual convictions, generic signatures and machine learning techniques
+On the role of procrastination in machine learning
+Mulan: A java library for multi-label learning
+A data analysis competition to evaluate machine learning algorithms for use in brain-computer interfaces
+Machine learning based botnet detection with dynamic adaptation
+Archetypal analysis for machine learning and data mining
+Drug repositioning: a machine-learning approach through data integration
+Machine learning techniques for cooperative spectrum sensing in cognitive radio networks
+Scaling, machine learning, and genetic neural nets
+Alternating minimization and Boltzmann machine learning
+On quality control and machine learning in crowdsourcing
+Novel biomarkers for pre-eclampsia detected using metabolomics and machine learning
+A hybrid machine learning system for stock market forecasting
+Evidence-based static branch prediction using machine learning
+Supervised machine learning applied to link prediction in bipartite social networks
+On the use of stochastic hessian information in optimization methods for machine learning
+Semi-supervised learning for peptide identification from shotgun proteomics datasets
+Machine learning: The high interest credit card of technical debt
+Object recognition as machine translation: Learning a lexicon for a fixed image vocabulary
+A literature survey of active machine learning in the context of natural language processing
+Combined optimization of feature selection and algorithm parameters in machine learning of language
+A machine learning approach for feature-sensitive motion planning
+System and method for machine learning a confidence metric for machine translation
+Online learning for latent dirichlet allocation
+Machine learning for intelligent support of conflict resolution
+Spectral methods in machine learning and new strategies for very large datasets
+Regularized extreme learning machine for regression problems
+Missing data problems in machine learning
+Data mining and machine learning—towards reducing false positives in intrusion detection
+Content-based book recommending using learning for text categorization
+Dynamic time warping and machine learning for signal quality assessment of pulsatile signals
+Inductive Logic Programming: from machine learning to software engineering
+Cross-trial prediction of treatment outcome in depression: a machine learning approach
+Learning Arbiter and Combiner Trees from Partitioned Data for Scaling Machine Learning.
+Machine learning in side-channel analysis: a first study
+Why machine learning algorithms fail in misuse detection on KDD intrusion detection data set
+Machine learning approach for the prediction of protein secondary structure
+A machine learning approach for non-blind image deconvolution
+Incremental multi-step Q-learning
+Big data meets quantum chemistry approximations: The Δ-machine learning approach
+Machine learning in genome‐wide association studies
+A novel ensemble machine learning for robust microarray data classification
+Machine learning techniques to examine large patient databases
+Introduction to machine learning: An early draft of a proposed textbook
+Meteor-s web service annotation framework with machine learning classification
+Compass: A shape-based machine learning tool for drug design
+Machine learning in bioinformatics
+A machine learning approach to the automatic evaluation of machine translation
+Machine learning for spatial environmental data: theory, applications, and software
+A new approach to the study of translationese: Machine-learning the difference between original and translated text
+A machine-learning approach to automated knowledge-base building for remote sensing image analysis with GIS data
+Survey of review spam detection using machine learning techniques
+A study of machine-learning-based approaches to extract clinical entities and their assertions from discharge summaries
+Machine learning and image interpretation
+Data classification methods using machine learning techniques
+Machine learning for hackers
+Machine learning on big data: Opportunities and challenges
+Natural Language Annotation for Machine Learning: A guide to corpus-building for applications
+Predicting stock market index using fusion of machine learning techniques
+Knowledge representation and organization in machine learning
+Multi-class protein fold classification using a new ensemble machine learning approach
+mlpy: Machine learning python
+A machine learning framework for network anomaly detection using SVM and GA
+Image analysis and machine learning applied to breast cancer diagnosis and prognosis
+Data mining and machine learning techniques for the identification of mutagenicity inducing substructures and structure activity relationships of noncongeneric …
+Adaptive machine learning framework to accelerate ab initio molecular dynamics
+Some studies in machine learning using the game of checkers
+A case for machine learning to optimize multicore performance
+Optimization method based extreme learning machine for classification
+Enhanced random search based incremental extreme learning machine
+Analysing and improving the diagnosis of ischaemic heart disease with machine learning
+Cue phrase classification using machine learning
+Network anomaly detection: A machine learning perspective
+Application of machine learning methods to spatial interpolation of environmental variables
+Machine learning for quantum mechanics in a nutshell
+Encyclopedia of machine learning and data mining
+Bacterial species identification from MALDI-TOF mass spectra through data analysis and machine learning
+Estimating pixel-scale land cover classification confidence using nonparametric machine learning methods
+Machine Learning Energies of 2 Million Elpasolite Crystals
+Multimodal machine learning: A survey and taxonomy
+Machine learning: hands-on for developers and technical professionals
+Automatic vandalism detection in Wikipedia: Towards a machine learning approach
+Machine learning on big data
+Parameter optimization for machine-learning of word sense disambiguation
+Balancing exploration and exploitation: A new algorithm for active machine learning
+On the use of machine learning to predict the time and resources consumed by applications
+Evaluation of machine learning classifiers for mobile malware detection
+Machine learning for motor skills in robotics
+Apparatus and methods for machine learning hypotheses
+Machine learning algorithms for accurate flow-based network traffic classification: Evaluation and comparison
+New methods for ligand-based virtual screening: use of data fusion and machine learning to enhance the effectiveness of similarity searching
+A machine learning approach to pronoun resolution in spoken dialogue
+Training on multiple sub-flows to optimise the use of Machine Learning classifiers in real-world IP networks.
+A machine-learning apprentice for the completion of repetitive forms
+A machine learning approach to anaphoric reference
+Practical secure aggregation for privacy-preserving machine learning
+Distributed secure quantum machine learning
+New machine learning methods demonstrate the existence of a human stylome
+A machine learning based scheme for double JPEG compression detection
+Interactive machine learning advice facility
+A survey of feature selection and feature extraction techniques in machine learning
+Machine learning of document templates for data extraction
+Machine learning and optimization
+Predicting habitat suitability with machine learning models: the potential area of Pinus sylvestris L. in the Iberian Peninsula
+Machine learning based anomaly detection
+Support vector machine learning-based fMRI data group analysis
+Machine learning in materials informatics: recent applications and prospects
+Dynamic scheduling system utilizing machine learning as a knowledge acquisition tool
+Application of machine learning to medical diagnosis
+Machine learning used by Personal WebWatcher
+Quantitative forecasting of PTSD from early trauma responses: A machine learning application
+A machine learning approach to assessing knowledge sharing during collaborative learning activities
+Active learning using pre-clustering
+Machine learning for better Web browsing
+A machine learning method for generation of a neural network architecture: A continuous ID3 algorithm
+Reliable classifications with machine learning
+Imputation-boosted collaborative filtering using machine learning classifiers
+Convolutional sequence to sequence learning
+Revealing the autonomous system taxonomy: The machine learning approach
+An introduction to machine learning
+Regularized extreme learning machine for regression with missing data
+Machine learning for activity recognition: hip versus wrist data
+Waffles: A machine learning toolkit
+Reproducing kernel Banach spaces for machine learning
+Model-based fault diagnosis in electric drives using machine learning
+Introduction to machine learning (adaptive computation and machine learning series)
+Prediction of organic reaction outcomes using machine learning
+An introduction to MCMC for machine learning
+Disease prediction by machine learning over big data from healthcare communities
+Webwatcher: Machine learning and hypertext
+A comparative study of machine-learning methods to predict the effects of single nucleotide polymorphisms on protein function
+Entanglement-based machine learning on a quantum computer
+SVD-based quality metric for image and video using machine learning
+Tool breakage detection using support vector machine learning in a milling process
+Classification of substrates and inhibitors of P-glycoprotein using unsupervised machine learning approach
+QELAR: A machine-learning-based adaptive routing protocol for energy-efficient and lifetime-extended underwater sensor networks
+A machine-learning approach for predicting B-cell epitopes
+A machine learning approach to anomaly detection
+The Berlin brain-computer interface: Machine learning based detection of user specific brain states.
+Flexible and efficient Gaussian process models for machine learning
+Crystal structure representations for machine learning models of formation energies
+Introduction to special issue on machine learning approaches to shallow parsing
+A comparison of two learning algorithms for text categorization
+Properties of machine learning applications for use in metamorphic testing
+Automatic resolution of ambiguous terms based on machine learning and conceptual relations in the UMLS
+Unsupervised learning of video representations using lstms
+Automatic extraction of titles from general documents using machine learning
+Learning rules that classify e-mail
+Automated learning of decision rules for text categorization
+Machine learning of morphosyntactic structure: Lemmatizing unknown Slovene words
+Machine learning unifies the modeling of materials and molecules
+Fundamentals of machine learning for predictive data analytics: algorithms, worked examples, and case studies
+Online detection of freezing of gait with smartphones and machine learning techniques
+Analysis of temporal-diffference learning with function approximation
+Integrated architectures for learning, planning, and reacting based on approximating dynamic programming
+Differential evolution extreme learning machine for the classification of hyperspectral images
+TeleOphta: Machine learning and image processing methods for teleophthalmology
+Classification of musical genre: a machine learning approach.
+Stock price forecasting by hybrid machine learning techniques
+Machine learning techniques applied to wireless ad-hoc networks: Guide and survey
+A novel method to estimate model uncertainty using machine learning techniques
+Predicting risk of suicide attempts over time through machine learning
+Double/debiased machine learning for treatment and structural parameters
+Machine learning for coreference resolution: From local classification to global ranking
+Machine teaching: An inverse problem to machine learning and an approach toward optimal education
+Regroup: Interactive machine learning for on-demand group creation in social networks
+Machine learning in manufacturing: advantages, challenges, and applications
+Machine learning based botnet detection using real-time connectivity graph based traffic features
+Automating the assignment of diagnosis codes to patient encounters using example-based and machine learning techniques
+Data classification methods using machine learning techniques
+Machine learning based interatomic potential for amorphous carbon
+Metabolite identification and molecular fingerprint prediction through machine learning
+Combining support vector machine learning with the discrete cosine transform in image compression
+The effect of principal component analysis on machine learning accuracy with high dimensional spectral data
+Classification in conservation biology: a comparison of five machine-learning methods
+Tensor voting: a perceptual organization approach to computer vision and machine learning
+A comparison of machine learning techniques for customer churn prediction
+Introduction to astroML: Machine learning for astrophysics
+Machine learning methods for attack detection in the smart grid
+The support vector machine under test
+A machine learning approach for automatic student model discovery.
+Sequence to sequence learning with neural networks
+Evaluating machine learning for information extraction
+Machine learning techniques and drug design
+Signal processing and machine learning with differential privacy: Algorithms and challenges for continuous data
+Weka-parallel: machine learning in parallel
+Machine learning methods for estimating heterogeneous causal effects
+Machine learning: a guide to current research
+Machine learning of event segmentation for news on demand
+An empirical study of three machine learning methods for spam filtering
+Sublinear optimization for machine learning
+Opem: A static-dynamic approach for machine-learning-based malware detection
+Automatic short-term solar flare prediction using machine learning and sunspot associations
+Large scale machine learning systems and methods
+Error moderation in low-cost machine-learning-based analog/RF testing
+A Meta-Instrument for Interactive, On-the-Fly Machine Learning.
+Monitoring frog communities: an application of machine learning
+Multilabel machine learning and its application to semantic scene classification
+Model-agnostic interpretability of machine learning
+Prediction of allergenic proteins by means of the concept of Chou's pseudo amino acid composition and a machine learning approach
+Prototype vector machine for large scale semi-supervised learning
+Comparing machine learning classifiers for diagnosing glaucoma from standard automated perimetry
+Classifier ensemble construction with rotation forest to improve medical diagnosis performance of machine learning algorithms
+Monitoring of wind farms' power curves using machine learning techniques
+Compression and machine learning: A new perspective on feature space vectors
+Software testing using machine learning
+System and method for automated machine-learning, zero-day malware detection
+Predicting football results using Bayesian nets and other machine learning techniques
+How to interpret an anonymous bacterial genome: machine learning approach to gene identification
+Data classification methods using machine learning techniques
+Multivariate analysis of fMRI time series: classification and regression of brain responses using machine learning
+MaSh: machine learning for sledgehammer
+Speech emotion classification using machine learning algorithms
+The definition of insulin resistance using HOMA-IR for Americans of Mexican descent using machine learning
+What can machine learning do? Workforce implications
+A machine learning framework for programming by example
+Machine invention of first-order predicates by inverting resolution
+Ten quick tips for machine learning in computational biology
+Gene prediction in metagenomic fragments: a large scale machine learning approach
+Predictor correlation impacts machine learning algorithms: implications for genomic studies
+Machine learning approaches for prediction of linear B‐cell epitopes on proteins
+Applying machine learning to semiconductor manufacturing
+Machine learning in medicine
+Sentiment analysis of twitter data using machine learning approaches and semantic analysis
+Machine Reading.
+Analogical dissimilarity: definition, algorithms and two experiments in machine learning
+Timely and continuous machine-learning-based classification for interactive IP traffic
+Machine Learning Methods for Property Prediction in Chemoinformatics: Quo Vadis?
+Preimage problem in kernel-based machine learning
+Malware detection on mobile devices using distributed machine learning
+Identification and resolution of Chinese zero pronouns: A machine learning approach
+LERS-a system for learning from examples based on rough sets
+Environmental data mining and modeling based on machine learning algorithms and geostatistics
+Paraphrase identification on the basis of supervised machine learning techniques
+Mastering Machine Learning with scikit-learn
+Classifying depression patients and normal subjects using machine learning techniques and nonlinear features from EEG signal
+Webwatcher: A learning apprentice for the world wide web
+Machine learning and decision support in critical care
+Metabolomics, modelling and machine learning in systems biology–towards an understanding of the languages of cells
+Nonparametric statistical analysis for multiple comparison of machine learning regression algorithms
+Materials discovery and design using machine learning
+Machine learning in games: A survey
+A machine learning approach to software requirements prioritization
+Machine learning in computer vision
+Mapping of hyperspectral AVIRIS data using machine-learning algorithms
+Reading digits in natural images with unsupervised feature learning
+Malware detection using machine learning
+Lifelong machine learning
+Machine learning in materials science: Recent progress and emerging applications
+Python machine learning
+Reward functions for accelerated learning
+Research frontier: deep machine learning--a new frontier in artificial intelligence research
+Single-machine scheduling with learning considerations
+Using machine learning to support debugging with tarantula
+Domain adaptation for large-scale sentiment classification: A deep learning approach
+An active role for machine learning in drug development
+A machine learning approach to inductive query by examples: an experiment using relevance feedback, ID3, genetic algorithms, and simulated annealing
+Accurate prediction of stability changes in protein mutants by combining machine learning with structure based computational mutagenesis
+Weka machine learning for predicting the phospholipidosis inducing potential
+Optical metrology of structures formed on semiconductor wafer using machine learning systems
+Evolutionary extreme learning machine
+From machine learning to deep learning: progress in machine intelligence for rational drug discovery
+Linearized alternating direction method with parallel splitting and adaptive penalty for separable convex programs in machine learning
+Machine learning model repository
+Hippocampal shape analysis of Alzheimer disease based on machine learning methods
+Intelligent hybrid vehicle power control—Part I: Machine learning of optimal vehicle power
+Relational learning of pattern-match rules for information extraction
+Fast bayesian optimization of machine learning hyperparameters on large datasets
+A paradigm for data-driven predictive modeling using field inversion and machine learning
+Socially guided machine learning
+Use of advanced machine-learning techniques for noninvasive monitoring of hemorrhage
+Machine learning from examples: Inductive and lazy methods
+Machine learning for big data analytics in plants
+Genomic computing. Explanatory analysis of plant expression profiling data using machine learning
+Human-level concept learning through probabilistic program induction
+Elucidating a magnetic resonance imaging-based neuroanatomic biomarker for psychosis: classification analysis using probabilistic brain atlas and machine learning …
+A general-purpose machine learning framework for predicting properties of inorganic materials
+Rapid and quantitative detection of the microbial spoilage of beef by Fourier transform infrared spectroscopy and machine learning
+Machine learning based adaptive watermark decoding in view of anticipated attack
+Detecting stealthy false data injection using machine learning in smart grid
+A method for classification of network traffic based on C5. 0 Machine Learning Algorithm
+What is machine learning?
+Implementing machine learning in health care—addressing ethical challenges
