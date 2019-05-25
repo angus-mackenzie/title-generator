@@ -16,6 +16,11 @@ During the time playing around with the implementations below I was able to gain
   * New Machine Learning for Astrophysics
   * Neural Machine Learning for Medical Imaging
   * Deep Similarity Learning Filters
+
+You can view some more of the outputs here:
+  - [Char Level Generated Titles](#char-level-generated-titles)
+  - [Word Level Generated Titles](#word-level-generated-titles)
+  - [LSTM Generated Titles](#lstm-generated-titles)
   
 ## Implementations
 I wanted to compare results between somewhat vanilla RNN implementations and a Long Short Term Memory (LSTM) model. To that end I used a character level RNN, word level RNN and a LSTM. This was done mainly to try and better understand the underlying concepts in RNNs, and what differentiates them from LSTMs.
@@ -395,6 +400,8 @@ while True:
     iter 111900, loss: 33.613680
 
 I stopped the above compilation after 1119000 iterations as it takes quite a while to generate meaninful text - and sometimes it doesn't seem to converge at all. Here is the output from an implementation I had running for a  day or two that got down to about 16 for its loss.
+
+## Char Level Generated Titles
 ```
 Oxprensur Machine Learning Based Comparison Imagepredalyic Problem A Machine Learning Shidenticing With Stomement Machine
 Genetional Translingl Data O
@@ -1008,6 +1015,8 @@ for i in range(num_sentences):
     print(" ".join(sent).title())
 ```
 
+## Word Level Generated Titles
+
     Networked Inference And Quantitative Classification Using Ubiquitous And Machine Learning Algorithm
     Machine Learning Based Perspectives Applications
     Support Vector Machine For Library Machine Authentication In Data
@@ -1297,6 +1306,7 @@ print (generate_text("data", 7, lstm_model, max_sequence_len))
 print (generate_text("designing", 7, lstm_model, max_sequence_len))
 print (generate_text("reinforcement", 7, lstm_model, max_sequence_len))
 ```
+## LSTM Generated Titles
 
      Inference Algorithms For Machine Learning
     Euclidean Inference Algorithms For Machine
