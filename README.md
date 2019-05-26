@@ -63,12 +63,14 @@ This was a very fun and interesting experience, and was inspired by the followin
 
 # Running The Code
 If you run this via [Google Colab](https://colab.research.google.com/) it should work from the get go. If you want to run it on your local
-try to install the necessary requirements via conda:
+try to install the necessary requirements via conda **Note:** I haven't had a chance to check the conda installation - so sadly there may be one or two issues regarding missing packages.
 ```
 conda create --name titles --file requirements.txt
 ```
-
-**Note:** I haven't had a chance to check the conda installation - so sadly there may be one or two issues regarding missing packages.
+Accept any prompt that pops up, activate the environment `conda activate titles` and then add the necessary kernel for the jupyter notebook:
+```
+python -m ipykernel install --user --name=titles
+```
 
 # Code
 Here is the code and associated output from the [RNNs.ipynb](RNNs.ipynb) notebook. If you want to look at a specific implementation:
